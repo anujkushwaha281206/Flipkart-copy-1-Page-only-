@@ -1,0 +1,13 @@
+@media (width <= 900px){
+    #ref {
+        display: none;
+    }
+
+}
+/*@media (height <= 900px){
+
+    #left , #right {
+        top: 13vh;
+        height: 10vh;
+        width: 4vw;    }
+}*/
