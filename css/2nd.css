@@ -4,10 +4,9 @@
     }
 
 }
-/*@media (height <= 900px){
+@media (width <= 500px){
 
-    #left , #right {
-        top: 13vh;
-        height: 10vh;
-        width: 4vw;    }
-}*/
+    #left , #right{
+        height: 4vh;
+        width: 8vw;    }
+}
