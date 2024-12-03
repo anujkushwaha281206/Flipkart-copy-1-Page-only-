@@ -12,11 +12,6 @@
         height: 77%;
     }
 }
-@media (height <= 1960px) {
-    #left , #right {
-        height: 57%;
-    }
-}
 /*@media (height <= 900px){
 
     #left , #right {
