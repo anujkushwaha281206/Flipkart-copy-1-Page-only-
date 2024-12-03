@@ -1,0 +1,21 @@
+@media (width <= 900px){
+    #ref {
+        display: none;
+    }
+    .input{
+        align-self: center;
+    }
+
+}
+@media (width < 750px) {
+    #left , #right {
+        height: 7vh;
+    }
+}
+/*@media (height <= 900px){
+
+    #left , #right {
+        top: 13vh;
+        height: 10vh;
+        width: 4vw;    }
+}*/
